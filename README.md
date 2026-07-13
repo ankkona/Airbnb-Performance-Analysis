@@ -16,7 +16,7 @@ This project analyzes 279K+ Airbnb listings across 10 global cities (2008–2021
 ## Dashboard 
 
 <img src="https://github.com/ankkona/Airbnb-Performance-Analysis/blob/main/Dashboard.png" width="1500"/>
-<img src="https://github.com/ankkona/Airbnb-Performance-Analysis/blob/main/Detailed%20Reviews%20Page.png" width="6000"/>
+<img src="https://github.com/ankkona/Airbnb-Performance-Analysis/blob/main/Detailed%20Reviews%20Page.png" width="1500"/>
 
 # Key Business Insights
 
