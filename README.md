@@ -1,6 +1,6 @@
 # 📊 Airbnb Performance Analysis
 
-This project analyzes 279K+ Airbnb listings across 10 global cities (2008–2021) to uncover trends in pricing, guest satisfaction, and market concentration. 
+This project analyzes 279K+ Airbnb listings across 10 global cities (2008 - 2021) to uncover trends in pricing, guest satisfaction, and market concentration. 
 
 ## 🚀 Tech Stack
 
