@@ -18,7 +18,7 @@ This project analyzes 279K+ Airbnb listings across 10 global cities (2008 - 2021
 <img src="https://github.com/ankkona/Airbnb-Performance-Analysis/blob/main/Dashboard.png" width="1500"/>
 <img src="https://github.com/ankkona/Airbnb-Performance-Analysis/blob/main/Detailed%20Reviews%20Page.png" width="1500"/>
 
-# Key Business Insights
+## Key Business Insights
 
 - **Entire place** listings peak at **~30K** - far outpacing hotel, private, and shared rooms and also command the second-highest average price while earning the highest guest rating overall. This combination of high demand, strong pricing power, and top satisfaction makes "entire place" the platform's benchmark segment, the one other room types should be measured against.
 - **Hotel rooms** carry the highest average price (~800) but the lowest average rating (4.5) - a mismatch that suggests hosts in this category are overpricing relative to guest experience. A modest price correction could improve both bookings and satisfaction.
